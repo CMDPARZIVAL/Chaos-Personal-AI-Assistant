@@ -49,5 +49,5 @@ A powerful, voice-activated AI assistant built with Python that combines the int
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/chaos-ai-assistant.git](https://github.com/yourusername/chaos-ai-assistant.git)
-cd chaos-ai-assistant
+git clone https://github.com/CMDPARZIVAL/Chaos-Personal-AI-Assistant.git
+cd Chaos-Personal-AI-Assistant
